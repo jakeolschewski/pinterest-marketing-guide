@@ -520,3 +520,15 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built by [WEDGE Method](https://wedge-sales.vercel.app)** — Digital product templates, marketing assets, and growth strategies for creators who sell online.
 
 *Pinterest is the most underrated traffic source for digital products. Star this repo, bookmark it, and start implementing today.*
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
